@@ -12,7 +12,7 @@ Commercial music composer and producer with over a decade writing, producing, an
 - Comms and file sharing through Teams / Slack / Asana
 - Monthly reporting through Power BI
 - Publishing management: Licensing Contracts / Renewals
-- Weekly internal shares to showcase the best audio work from briefs
+- Weekly internal shares to showcase the best audio work from Bauer Creatives all over the UK
 - Run Multicolour Music, a cross-border (Ireland/UK) commercial music business registered with IMRO and PRS for Music
 - Have written and delivered thousands of commercial music pieces over my career
 
