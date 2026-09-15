@@ -1,13 +1,18 @@
 # Mark Cowan
 ### Commercial Music Composer & Producer | Audio Post-Production
 
-Commercial music composer and producer with over a decade writing, producing, and mixing original music for global radio and TV advertising campaigns — plus client-facing advertising and promotions experience before that. Comfortable translating an agency brief or a vague creative ask into a finished, broadcast-ready piece of audio.
+Commercial music composer and producer with over a decade writing, producing, and mixing original music for global radio and TV advertising campaigns, plus client facing advertising and promotions experience before that. Comfortable translating an agency brief or a vague creative ask into a finished, broadcast ready piece of audio.
 
 ## What I do
 
 - Compose and produce original commercial music for radio and TV advertising campaigns
-- Edit, mix, and master audio to broadcast standard, working primarily in Pro Tools
+- Edit, mix, and master audio to broadcast standard, working primarily in Logic Pro (also experience with Pro Tools)
 - Brief and direct voice talent, freelance composers, and session musicians as part of full-spot production
+- Project Management through Monday.com
+- Comms and file sharing through Teams / Slack / Asana
+- Monthly reporting through Power Bi
+- Publishing management: Licensing Contracts / Renewals
+- Weekly internal shares to showcase the best audio work from briefs.
 - Run Multicolour Music, a cross-border (Ireland/UK) commercial music business registered with IMRO and PRS for Music
 - Have written and delivered thousands of commercial music pieces over my career
 
@@ -20,7 +25,7 @@ Commercial music composer and producer with over a decade writing, producing, an
 
 ## Tools & focus areas
 
-Pro Tools &middot; Sound design &amp; sonic branding &middot; Voice direction &middot; Original composition &middot; Sync licensing &middot; Multi-instrumentalist
+Logic Pro, Pro Tools &middot; Sound design &amp; sonic branding &middot; Voice direction &middot; Original composition &middot; Sync licensing &middot; Multi-instrumentalist
 
 ## Get in touch
 
