@@ -1,16 +1,28 @@
-## Hi there 👋
+# Mark Cowan
+### Commercial Music Composer & Producer | Audio Post-Production
 
-<!--
-**MarkCowanMcBride/MarkCowanMcBride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Commercial music composer and producer with over a decade writing, producing, and mixing original music for global radio and TV advertising campaigns — plus client-facing advertising and promotions experience before that. Comfortable translating an agency brief or a vague creative ask into a finished, broadcast-ready piece of audio.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Compose and produce original commercial music for radio and TV advertising campaigns
+- Edit, mix, and master audio to broadcast standard, working primarily in Pro Tools
+- Brief and direct voice talent, freelance composers, and session musicians as part of full-spot production
+- Run Multicolour Music, a cross-border (Ireland/UK) commercial music business registered with IMRO and PRS for Music
+- Have written and delivered thousands of commercial music pieces over my career
+
+## Background
+
+- **Commercial Music Composer / Producer** — Bauer Media Group UK, Greatest Hits Network (2015–present, 11+ years)
+- **Digital, Promotions & Sponsorship Co-ordinator** — Clyde 1 / Bauer Media (2014–2015)
+- **Account Executive Trainee** — Saatchi & Saatchi, London, Guinness account (2012)
+- The Glasgow School of Art
+
+## Tools & focus areas
+
+Pro Tools &middot; Sound design &amp; sonic branding &middot; Voice direction &middot; Original composition &middot; Sync licensing &middot; Multi-instrumentalist
+
+## Get in touch
+
+- Email: [mark.cowan@multicolourmusic.com](mailto:mark.cowan@multicolourmusic.com)
+- LinkedIn: [linkedin.com/in/mark-cowan-a148524b](https://www.linkedin.com/in/mark-cowan-a148524b)
